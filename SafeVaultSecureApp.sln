@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeVaultSecureApp", "SafeVaultSecureApp\SafeVaultSecureApp.csproj", "{E4698B7D-0C0E-44A3-AF5B-B1D49BFD9B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeVaultSecureApp.Tests", "SafeVaultSecureApp.Tests\SafeVaultSecureApp.Tests.csproj", "{D57EFCC5-CCAB-4C98-B51D-55887B4CB58C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4698B7D-0C0E-44A3-AF5B-B1D49BFD9B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4698B7D-0C0E-44A3-AF5B-B1D49BFD9B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4698B7D-0C0E-44A3-AF5B-B1D49BFD9B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4698B7D-0C0E-44A3-AF5B-B1D49BFD9B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57EFCC5-CCAB-4C98-B51D-55887B4CB58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57EFCC5-CCAB-4C98-B51D-55887B4CB58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57EFCC5-CCAB-4C98-B51D-55887B4CB58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57EFCC5-CCAB-4C98-B51D-55887B4CB58C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
